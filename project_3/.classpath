@@ -6,5 +6,10 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/tonyj/Downloads/eclipse-java-2024-09-R-win32-x86_64/jackson-annotations-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tonyj/Downloads/eclipse-java-2024-09-R-win32-x86_64/jackson-databind-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tonyj/Downloads/eclipse-java-2024-09-R-win32-x86_64/jackson-core-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tonyj/Downloads/eclipse-java-2024-09-R-win32-x86_64/mockito-all-1.10.19.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
